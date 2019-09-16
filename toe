@@ -10,4 +10,4 @@ end
 
 board[0] = "X"
 
-puts display_board
+puts display_board(board)
